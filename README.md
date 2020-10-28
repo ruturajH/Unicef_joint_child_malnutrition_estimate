@@ -26,3 +26,4 @@ Extracted two datasets from the available contents:
 4) Why was rural area affected the most?
 5) Which year has impacted the most by malnutrition and why?
 
+![Screenshot (437)](https://user-images.githubusercontent.com/53853127/97471624-4d825600-191f-11eb-8e0f-649817fd7334.png)
