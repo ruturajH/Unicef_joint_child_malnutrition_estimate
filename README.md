@@ -3,7 +3,6 @@
 Having a diet which is both sufficient in terms of energy (caloric) requirements and diverse to meet additional nutritional needs is essential for good health. Undernourishment, especially in children and mothers, is a leading risk factor for death and other health consequences.
 
 The purpose is to study about the Malnutrition and its dependent variables, as always it’s a global challenge. 
-In this presentation we will be representing the following:
 1) World wide Malnutrition trend
 2) Highest affected continents 
 3) Tableau is the best solution to analyze this type of data. So the visuals used are as: Heat map, Tree map, Horizontal Bar Graph, Line Graph. 
