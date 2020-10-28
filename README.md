@@ -6,7 +6,7 @@ The purpose is to study about the Malnutrition and its dependent variables, as a
 In this presentation we will be representing the following:
 1) World wide Malnutrition trend
 2) Highest affected continents 
-3) Tableau is the best solution to analyze this type of data. So the visuals used: Heat map, Tree map, Horizontal Bar Graph, Line Graph. 
+3) Tableau is the best solution to analyze this type of data. So the visuals used are as: Heat map, Tree map, Horizontal Bar Graph, Line Graph. 
 
 This dataset is retrieved from https://data.unicef.org/topic/nutrition/malnutrition/
 Extracted two datasets from the available contents:  
